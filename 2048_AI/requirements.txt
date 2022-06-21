@@ -7,4 +7,4 @@ pyobjc-core==4.0; sys_platform == 'darwin'
 pyobjc==4.0; sys_platform == 'darwin'
 python-xlib==0.20
 PyAutoGUI==0.9.36
-numpy==1.11.1rc1
+numpy==1.22.0rc1
